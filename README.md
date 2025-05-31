@@ -81,10 +81,17 @@ Blinkit, one of India's fastest-growing instant grocery delivery platforms, oper
 | Supermarket Type3   | $180.71K    | $140      | 935           | 4.0         | 0.06             |
 
 
+
+
+
 # 📊 Blinkit Sales Analysis Dashboard Overview
 
 
-![Blinkit Sales Analysis Dashboard Overview](https://github.com/user-attachments/assets/31b3fdde-555e-4858-aebc-6c25856541de)
+![Blinkit Sales Analysis Dashboard Overview](https://github.com/user-attachments/assets/31b3fdde-555e-4858-aebc-6c25856541de) 
+
+
+
+
 
 
 ---
